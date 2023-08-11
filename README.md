@@ -1,3 +1,6 @@
+# Word Screamble
+Welcome to the Word Screamble Game! This game is designed to test your word unscrambling skills and challenge your vocabulary.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
